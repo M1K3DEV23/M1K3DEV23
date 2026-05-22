@@ -87,14 +87,3 @@ $ _
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,rust,c,cpp,cs,react,svelte,tailwind,nodejs,fastapi,mysql,mongodb,postgres,pytorch,tensorflow,anaconda,linux,docker,git,githubactions,bash,vscode" />
 </div>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=M1K3DEV23&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=M1K3DEV23&layout=compact&langs_count=6&theme=rose_pine&hide_border=true" />
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/M1K3DEV23/M1K3DEV23/output/snake.svg" alt="Snake animation" />
