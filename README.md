@@ -1,99 +1,100 @@
 <div align="center">
-  <img height="250" src="https://i.giphy.com/dUSkOT39uMA8S1xzh4.webp"  />
+  <img height="220" src="https://i.giphy.com/dUSkOT39uMA8S1xzh4.webp" />
 </div>
 
-###
+<h1 align="center">Miguel Angel Rios Yañez</h1>
 
-<h1 align="left">🧠 AI & Data Engineer 🖥️</h1>
+<h3 align="center">
+  Software Engineer · Full-Stack Developer · AI & Data
+</h3>
 
-
-<p align="left">I'm Miguel Angel Rios Yañez 👋🏾, a Data Engineer and Software Developer specializing in building scalable data pipelines, optimizing workflows, and creating AI-driven solutions. Based in Mexico, I transform complex data into actionable insights, leveraging tools like Python, Apache Spark, and cloud platforms.</p>
-
-###
-
-<h2 align="left">🔗 Explore My Work</h2>
-
-###
-
-<p align="left">
-Check out my projects and contributions on my portfolio: <a href="https://m1k3dev23.github.io/mi-portafolio-web/" target="_blank"><strong>Portafolio</strong></a>.
+<p align="center">
+  <a href="https://m1k3dev23.github.io/mi-portafolio-web/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/M1K3DEV23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+---
 
-###
+```txt
+╔══════════════════════════════════════════════════════════════╗
+║ M1K3DEV23@github ~ [session: active]                        ║
+╚══════════════════════════════════════════════════════════════╝
 
-<h2 align="left">Skills</h2>
+$ whoami
+I build full-stack applications, automation workflows, data-driven tools
+and AI-powered systems with a practical engineering mindset.
 
-###
+$ mindset
+Language-agnostic · Problem-driven · Adaptable
 
-<p align="left">Data Engineering • Machine Learning • Big Data (Spark, Hadoop) • Cloud Platforms (AWS, Azure) • SQL/NoSQL Databases • Python • Automation</p>
+$ current_focus
+> Backend architecture and API design
+> AI applications, LLMs and RAG workflows
+> Data pipelines and automation
+> Linux, containers and deployment workflows
 
-###
+$ render ai
+        .--.
+       |o_o |    input  -> data · APIs · prompts
+       |:_/ |    core   -> LLMs · RAG · automation
+      //   \ \   output -> software · systems · insight
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
 
-<h2 align="left">I code with</h2>
+$ _
+```
 
-###
+## Tech Stack
+
+<table>
+  <tr>
+    <td><strong>Core</strong></td>
+    <td>Python · TypeScript · Rust · SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Also Worked With</strong></td>
+    <td>C · C++ · C# · JavaScript · Bash</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React · Svelte · Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>FastAPI · Node.js · REST APIs · JWT Auth</td>
+  </tr>
+  <tr>
+    <td><strong>Data & AI</strong></td>
+    <td>Pandas · NumPy · Jupyter · PyTorch · TensorFlow · LLMs · RAG</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL · MySQL · MongoDB · SQL/NoSQL</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Systems</strong></td>
+    <td>Linux · Docker · Podman · GitHub Actions · Git · CI/CD</td>
+  </tr>
+</table>
+
+## Toolbox
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,rust,c,cpp,cs,react,svelte,tailwind,nodejs,fastapi,mysql,mongodb,postgres,pytorch,tensorflow,anaconda,linux,docker,git,githubactions,bash,vscode" />
 </div>
 
-###
+## GitHub Stats
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=M1K3DEV23&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs?username=M1K3DEV23&layout=compact&langs_count=6&theme=rose_pine&hide_border=true" />
+</div>
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M1K3DEV23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/M1K3DEV23/M1K3DEV23/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="center">🎲 Fun fact</h3>
-
-###
-
-<p align="right">I also have experience in developing applications and websites using modern technologies.</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
